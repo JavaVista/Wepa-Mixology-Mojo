@@ -18,6 +18,10 @@ Welcome to Wepa! Mixology Mojo, a custom version of ChatGPT that serves as your 
 2. **Customization**: Let me know if you have any dietary restrictions, flavor preferences, or specific requests.
 3. **Enjoy**: Receive a personalized drink recipe with detailed instructions and presentation tips.
 
+## Privacy Policy
+
+We take your privacy seriously. Please read our [Privacy Policy](privacy.md) to understand how we handle your data.
+
 ## User Feedback
 
 - Your feedback is crucial. Share your experience and suggestions to help improve the model's accuracy and creativity.
