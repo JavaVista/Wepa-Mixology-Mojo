@@ -26,4 +26,4 @@ Welcome to Wepa! Mixology Mojo, a custom ChatGPT creator designed to provide you
 
 ## Contact Us
 
-If you have any questions about this privacy policy, please contact me at [Javi](mailto:code-vista@outlook.com)..
+If you have any questions about this privacy policy, please contact me at [Javi](mailto:code-vista@outlook.com).
